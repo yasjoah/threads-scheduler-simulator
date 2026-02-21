@@ -111,6 +111,5 @@ Event-driven (non-tick) simulation
 
 Hardware-in-the-loop task execution
 
-Author
-
+My final note:
 Developed as a personal systems project to explore operating system kernels, real-time scheduling, and embedded software design.
